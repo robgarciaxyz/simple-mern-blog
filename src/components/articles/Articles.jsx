@@ -1,6 +1,6 @@
 import React from 'react'
 
-const 
+const Articles
  = () => {
     return (
         <div>
@@ -9,5 +9,5 @@ const
     )
 }
 
-export default 
+export default Articles;
 
